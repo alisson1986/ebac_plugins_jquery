@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    margin-left: 10px;
+}
+
+h2{
+    margin-bottom: 20px;
+}
+
+input{
+    margin-bottom: 16px;
+    display: block;
+}
+
+form{
+    font-weight: bold;
+}
